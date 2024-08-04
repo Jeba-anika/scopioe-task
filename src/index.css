@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.logo {
+  font-family: "Poor Richard";
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 45.04px;
+  text-align: left;
+  color: rgba(66, 133, 243, 1);
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
